@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 14
+#+DATE: 2015-09-11 23:42:42.804106
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB05n0590-016禮記要義-卷十六.
 <pb:KR1d0055_SBCK_015-1a>¶
 禮記要義卷第十六　大傳¶
 　一王者諸侯大夫士禘祫之尊¶
@@ -167,4 +171,3 @@
 同故鄭荅炅模云然也¶
 禮記要義卷第十六¶
 <pb:KR1d0055_SBCK_015-9b>¶
-

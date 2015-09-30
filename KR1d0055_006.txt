@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 5
+#+DATE: 2015-09-11 23:42:42.390765
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB05n0590-007禮記要義-卷七.
 <pb:KR1d0055_SBCK_006-1a>¶
 禮記要義卷第七　曽子問¶
 　一君丗子告殯之禮¶
@@ -423,4 +427,3 @@
 (然宗子之適亦爲凡殤過此以徃則不&KR0021;也&KR0021;/適者天子下&KR0021;五諸侯下&KR0021;三大夫下&KR0021;二士)¶
 (以下&KR0021;/子而止)七卷終¶
 <pb:KR1d0055_SBCK_006-22a>¶
-

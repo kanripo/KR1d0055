@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 22
+#+DATE: 2015-09-11 23:42:43.159474
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB05n0590-024禮記要義-卷二十四.
 <pb:KR1d0055_SBCK_023-1a>¶
 禮記要義卷第二十四　祭義¶
 　一禘有樂嘗無樂然周禮四時皆有樂¶
@@ -360,4 +364,3 @@
 覩親將復入也陶陶遂遂相隨行之貌¶
 禮記要義卷第二十四¶
 <pb:KR1d0055_SBCK_023-19a>¶
-

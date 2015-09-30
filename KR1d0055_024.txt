@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 23
+#+DATE: 2015-09-11 23:42:43.205995
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 24
+#+PROPERTY: FILE SB05n0590-025禮記要義-卷二十五.
 <pb:KR1d0055_SBCK_024-1a>¶
 禮記要義卷第二十五　&KR0021;統¶
 　一祭非自外至心&KR0502;而奉之以禮¶
@@ -292,4 +296,3 @@
 馬¶
 禮記要義卷第二十五¶
 <pb:KR1d0055_SBCK_024-15b>¶
-

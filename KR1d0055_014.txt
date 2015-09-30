@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 13
+#+DATE: 2015-09-11 23:42:42.753512
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB05n0590-015禮記要義-卷十五.
 <pb:KR1d0055_SBCK_014-1a>¶
 禮記要義卷第十五　䘮服小記¶
 　一爲父爲母括髮同拜賔後則異¶
@@ -520,4 +524,3 @@
 以吉居凶&KR0002;岀三年則不追服矣¶
 禮記要義卷第十五¶
 <pb:KR1d0055_SBCK_014-27a>¶
-

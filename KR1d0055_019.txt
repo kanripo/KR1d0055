@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 18
+#+DATE: 2015-09-11 23:42:42.974719
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 19
+#+PROPERTY: FILE SB05n0590-020禮記要義-卷二十.
 <pb:KR1d0055_SBCK_019-1a>¶
 禮記要義卷第二十　雜記上¶
 　一諸侯行而死其復之制¶
@@ -559,4 +563,3 @@
 路不辟人也三事爲重故云與天子同也¶
 禮記要義卷第二十¶
 <pb:KR1d0055_SBCK_019-29a>¶
-

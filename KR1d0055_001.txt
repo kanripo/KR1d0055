@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-11 23:42:42.164154
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0590-003禮記要義-卷三.
 <pb:KR1d0055_SBCK_001-1a>¶
 禮記要義卷第三　檀弓上¶
 　一檀弓六國時人¶
@@ -571,4 +575,3 @@
 <pb:KR1d0055_SBCK_001-29b>¶
 　同治乙丑六月獨山莫友芝借讀過¶
 禮記要義卷三終¶
-

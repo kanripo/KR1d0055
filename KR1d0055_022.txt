@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 21
+#+DATE: 2015-09-11 23:42:43.117032
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 22
+#+PROPERTY: FILE SB05n0590-023禮記要義-卷二十三.
 <pb:KR1d0055_SBCK_022-1a>¶
 禮記要義卷第二十三　祭法¶
 　一郊禘祖宗之&KR0003;王鄭異¶
@@ -296,4 +300,3 @@
 夫&KR0002;無考者秪得立曾祖與祖及父三廟而巳¶
 則不得&KR0017;百丗也¶
 禮記要義卷第二十三¶
-

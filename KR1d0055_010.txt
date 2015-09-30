@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 9
+#+DATE: 2015-09-11 23:42:42.571695
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB05n0590-011禮記要義-卷十一.
 <pb:KR1d0055_SBCK_010-1a>¶
 禮記要義卷第十一　郊特牲¶
 一王鄭天帝之同異¶
@@ -956,4 +960,3 @@
 士二廟祖禰各一廟中下士一廟祖禰共廟前¶
 經注云謂祖禰據上士也¶
 禮記要義卷第十一¶
-

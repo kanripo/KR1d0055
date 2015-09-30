@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 29
+#+DATE: 2015-09-11 23:42:43.477112
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB05n0590-031禮記要義-卷三十一.
 <pb:KR1d0055_SBCK_030-1a>¶
 禮記要義卷第三十一　大學冠義昬義¶
 　一釋淇奥之詩¶
@@ -242,4 +246,3 @@
 理故不得爲災杜預以爲假日食之異以戒懼¶
 人君其言&KR0002;信&KR0002;不信不可定以爲驗也¶
 禮記要義卷第三十一¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 24
+#+DATE: 2015-09-11 23:42:43.250206
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB05n0590-026禮記要義-卷二十六.
 <pb:KR1d0055_SBCK_025-1a>¶
 禮記要義卷第二十六　經解至方記¶
 一辨昬姻二字¶
@@ -415,4 +419,3 @@
 <pb:KR1d0055_SBCK_025-21b>¶
 戒女曰母違宫事¶
 禮記要義卷第二十六¶
-

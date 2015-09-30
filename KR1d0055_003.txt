@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-11 23:42:42.248441
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0590-005禮記要義-卷五.
 <pb:KR1d0055_SBCK_003-1a>¶
 禮記要義卷第五　王制上¶
 　一王制是秦漢時作¶
@@ -598,4 +602,3 @@
 知殷制也周則大學在國小學在西郊下文具¶
 也¶
 禮記要義卷第五¶
-

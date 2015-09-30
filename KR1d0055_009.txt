@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 8
+#+DATE: 2015-09-11 23:42:42.525815
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB05n0590-010禮記要義-卷十.
 <pb:KR1d0055_SBCK_009-1a>¶
 禮記要義卷第十　禮器¶
 　一禮器名篇¶
@@ -355,4 +359,3 @@
 ¶
 禮記要義卷第十¶
 <pb:KR1d0055_SBCK_009-19a>¶
-

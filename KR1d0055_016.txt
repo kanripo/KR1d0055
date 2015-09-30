@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 15
+#+DATE: 2015-09-11 23:42:42.846981
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB05n0590-017禮記要義-卷十七.
 <pb:KR1d0055_SBCK_016-1a>¶
 禮記要義卷第十七　少儀¶
 一適有䘮者曰比曰聽事¶
@@ -180,4 +184,3 @@
 燭夜時也禮賔主有讓及更相辭謝又各歌詩¶
 相顯德今旣夜莫所以殺於三事¶
 禮記要義卷第十七¶
-

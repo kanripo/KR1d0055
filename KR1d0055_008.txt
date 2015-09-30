@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 7
+#+DATE: 2015-09-11 23:42:42.480172
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB05n0590-009禮記要義-卷九.
 <pb:KR1d0055_SBCK_008-1a>¶
 禮記要義卷第九　禮運¶
 一祭百神曰蜡祭宗廟曰息民¶
@@ -387,4 +391,3 @@
 羮齊視夏時醬齊視秋時飲齊視冬時¶
 禮記要義卷第九¶
 <pb:KR1d0055_SBCK_008-20b>¶
-

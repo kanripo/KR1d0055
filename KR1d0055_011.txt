@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 10
+#+DATE: 2015-09-11 23:42:42.622391
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB05n0590-012禮記要義-卷十二.
 <pb:KR1d0055_SBCK_011-1a>¶
 禮記要義卷第十二　内則¶
 　一子事父母之制¶
@@ -209,4 +213,3 @@
 禮記要義卷第十二¶
 <pb:KR1d0055_SBCK_011-11b>¶
 <pb:KR1d0055_SBCK_011-11b>¶
-

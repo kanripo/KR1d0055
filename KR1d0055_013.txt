@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 12
+#+DATE: 2015-09-11 23:42:42.710303
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB05n0590-014禮記要義-卷十四.
 <pb:KR1d0055_SBCK_013-1a>¶
 禮記要義卷第十四　明堂位¶
 　一鄭氏以周公稱天子稱王¶
@@ -158,4 +162,3 @@
 鄭注論語云夏曰瑚殷曰璉不同者皇氏云鄭¶
 注論語誤也此言兩敦四璉六瑚八簋¶
 禮記要義卷第十四¶
-

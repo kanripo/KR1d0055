@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 16
+#+DATE: 2015-09-11 23:42:42.886992
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB05n0590-018禮記要義-卷十八.
 <pb:KR1d0055_SBCK_017-1a>¶
 禮記要義卷第十八　學記¶
 　一鄭氏不見&KR0003;命¶
@@ -151,4 +155,3 @@
 &KR0004;爲積漸後成賢聖也¶
 禮記要義卷第十八¶
 <pb:KR1d0055_SBCK_017-8b>¶
-

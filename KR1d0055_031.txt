@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 30
+#+DATE: 2015-09-11 23:42:43.517921
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 31
+#+PROPERTY: FILE SB05n0590-032禮記要義-卷三十二.
 <pb:KR1d0055_SBCK_031-1a>¶
 禮記要義卷第三十二¶
 　　郷飲酒凡四事¶
@@ -342,4 +346,3 @@
 取豐上之觶立卒觶坐奠於豐下興揖不勝者¶
 先降是飲射爵之時揖讓&KR0155;降也¶
 禮記要義卷第三十二¶
-

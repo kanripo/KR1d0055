@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 1
+#+DATE: 2015-09-11 23:42:42.205390
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0590-004禮記要義-卷四.
 <pb:KR1d0055_SBCK_002-1a>¶
 禮記要義卷第四　檀弓下¶
 　一遣車之數父母而賔客之¶
@@ -462,4 +466,3 @@
 其賞辭(云云)¶
 禮記要義卷第四終¶
 <pb:KR1d0055_SBCK_002-24a>¶
-

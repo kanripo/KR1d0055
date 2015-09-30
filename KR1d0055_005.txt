@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 4
+#+DATE: 2015-09-11 23:42:42.340877
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB05n0590-006禮記要義-卷六.
 <pb:KR1d0055_SBCK_005-1a>¶
 禮記要義卷第六　月令¶
 一月令不合周法亦疑非吕不韋¶
@@ -837,4 +841,3 @@
 昬晚見而旦早没所以昬明之星不可正依曆¶
 法但舉大略耳餘月昬明從此可知¶
 禮記要義卷第六¶
-

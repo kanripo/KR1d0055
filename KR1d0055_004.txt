@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 3
+#+DATE: 2015-09-11 23:42:42.297783
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0590-005禮記要義-卷五下.
 <pb:KR1d0055_SBCK_004-1a>¶
 禮記要義卷第五下　王制下¶
 　一殷爵人於朝周於祖廟諸侯於嘗祭¶
@@ -634,4 +638,3 @@
 ¶
 禮記要義卷第五下¶
 <pb:KR1d0055_SBCK_004-33a>¶
-

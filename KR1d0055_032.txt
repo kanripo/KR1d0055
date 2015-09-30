@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 31
+#+DATE: 2015-09-11 23:42:43.559832
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 32
+#+PROPERTY: FILE SB05n0590-033禮記要義-卷三十三.
 <pb:KR1d0055_SBCK_032-1a>¶
 禮記要義第三十三　燕義聘義䘮服四制¶
 　一燕義記君臣燕飲¶
@@ -310,4 +314,3 @@
 <pb:KR1d0055_SBCK_032-16b>¶
 <pb:KR1d0055_SBCK_032-16b>¶
 <pb:KR1d0055_SBCK_032-16b>¶
-

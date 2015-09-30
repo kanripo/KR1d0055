@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 26
+#+DATE: 2015-09-11 23:42:43.343567
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB05n0590-028禮記要義-卷二十八.
 <pb:KR1d0055_SBCK_027-1a>¶
 禮記要義卷第二十八　表記至緇衣¶
 　一君子三不失¶
@@ -358,4 +362,3 @@
 婦言是從故云夫子凶也¶
 禮記要義卷第二十八¶
 <pb:KR1d0055_SBCK_027-19a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 19
+#+DATE: 2015-09-11 23:42:43.021265
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB05n0590-021禮記要義-卷二十一.
 <pb:KR1d0055_SBCK_020-1a>¶
 禮記要義卷第二十一　雜記下¶
 一雖有親之大䘮猶爲輕服者除¶
@@ -410,4 +414,3 @@
 <pb:KR1d0055_SBCK_020-21b>¶
 禮記要義卷第二十一¶
 <pb:KR1d0055_SBCK_020-22a>¶
-

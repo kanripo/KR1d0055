@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 11
+#+DATE: 2015-09-11 23:42:42.664446
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB05n0590-013禮記要義-卷十三.
 <pb:KR1d0055_SBCK_012-1a>¶
 禮記要義卷第十三　玉藻¶
 一鄭謂西都宫室如諸侯制諸儒疑之¶
@@ -586,4 +590,3 @@
 大夫也¶
 禮記要義卷第十三¶
 <pb:KR1d0055_SBCK_012-30b>¶
-

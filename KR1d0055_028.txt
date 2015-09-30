@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 27
+#+DATE: 2015-09-11 23:42:43.387231
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 28
+#+PROPERTY: FILE SB05n0590-029禮記要義-卷二十九.
 <pb:KR1d0055_SBCK_028-1a>¶
 禮記要義卷第二十九　問喪至深衣¶
 　一&KR0004;喪之節¶
@@ -330,4 +334,3 @@
 亦有縁也¶
 禮記要義卷第二十九¶
 <pb:KR1d0055_SBCK_028-17b>¶
-

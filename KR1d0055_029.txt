@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記要義
-#+DATE: 2015-09-23 09:38:08
-#+PROPERTY: JUAN 28
+#+DATE: 2015-09-11 23:42:43.431359
+#+PROPERTY: ID KR1d0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB05n0590-030禮記要義-卷三十.
 <pb:KR1d0055_SBCK_029-1a>¶
 禮記要義卷第三十　投壷　儒行¶
 一奉矢奉中執壷之節¶
@@ -247,4 +251,3 @@
 謂也¶
 禮記要義卷第三十¶
 <pb:KR1d0055_SBCK_029-13b>¶
-
